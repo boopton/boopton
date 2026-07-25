@@ -18,10 +18,10 @@ Hi! I'm **boopton**!
 # Fun Stuff
 
 - **Hate** how bold text is often not bold enough
-- **Love** playing indie games such as **Hollow Knight**, **Stardew Valley**, and **Celeste**
+- **Love** playing indie games such as **Hollow Knight**, **Stardew Valley**, **Celeste**, and **Rain World**!
 
 # Get in Touch
 
 - On one of the discussions or issues pages on any of my repos!
 
-![](https://img.shields.io/badge/Discord-boopton-blue?style=for-the-badge&labelColor=white&logo=discord)
+<!--![](https://img.shields.io/badge/Discord-boopton-blue?style=for-the-badge&labelColor=white&logo=discord)-->
